@@ -1,0 +1,19 @@
+{
+    "name": "Npm_crash_course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "formik": "^2.1.5",
+        "lodash": "^4.17.19"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
